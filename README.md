@@ -1,4 +1,4 @@
-# Fab Polish
+# Check Source
 
 Run various checks against source code using Fabric
 
